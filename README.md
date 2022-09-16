@@ -6,4 +6,7 @@ Initially will be Seneca letters. Could be personal letters. Could be book chapt
 
 [Seneca: Moral Letters to Lucilius](https://en.wikisource.org/wiki/Moral_letters_to_Lucilius/Letter_1)
 
+Probably use https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API#speech_synthesis for an easy entry point.
+
+Would possibly use https://github.com/coqui-ai/TTS for more realistic voice streams.
 
